@@ -5,9 +5,9 @@ app = FastAPI()
 
 # FastAPI 範例
 origins = [
-    "https://your-project.vercel.app",
-    "https://your-project.netlify.app",    # 新增
-    "https://your-project.pages.dev",      # 新增
+    "https://my-react-frontend.vercel.app",
+    "https://my-react-frontend.netlify.app",    # 新增
+    "https://my-react-frontend.pages.dev",      # 新增
     "http://localhost:5173",               # 本地測試用
 ]
 
