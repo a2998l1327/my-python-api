@@ -8,6 +8,7 @@ origins = [
     "https://my-react-frontend-q0wv0onzx-a2998l1327.vercel.app/",
     "https://exquisite-smakager-402e9e.netlify.app/",    # 新增
     "https://my-react-frontend.pages.dev",      # 新增
+    "https://my-cloudflare-app-xys.pages.dev",  # 新增
     "http://localhost:5173",               # 本地測試用
 ]
 
